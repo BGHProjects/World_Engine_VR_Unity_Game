@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 6f39766a7824b9e4fa0117a5656bf831
+  - enabled: 1
+    path: Assets/Scenes/Campaign.unity
+    guid: 2a27f32aab8b2ca4c931bd06624f0dfe
+  - enabled: 1
+    path: Assets/Scenes/Race_Mode.unity
+    guid: bd2c8142723182548a4fd76d66ebe382
+  - enabled: 1
+    path: Assets/Scenes/Creative_Mode.unity
+    guid: e9fc3620c549e8547ac1d8f949f11bb4
+  - enabled: 1
+    path: Assets/Scenes/CreativeRaceMode.unity
+    guid: 1c2fb0bcd317a22468f55ec1fbe61bd4
+  - enabled: 1
+    path: Assets/Scenes/Campaign_Tutorial.unity
+    guid: 98f6ad371266a5a4bacc9bbe1852be5d
+  - enabled: 1
+    path: Assets/Scenes/Creative_Tutorial.unity
+    guid: 04ab326929af34c418fe26528048765a
+  - enabled: 1
+    path: Assets/Scenes/CreativeRace_Tutorial.unity
+    guid: 4bbed6420f7024c4095b39b6453e3a4d
+  - enabled: 1
+    path: Assets/Scenes/RaceMode_Tutorial.unity
+    guid: cf2c90193cdf3b34fa3b6d75e5a87aba
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3095b65ad2a94b4ab2e46f38b019935,
+      type: 2}

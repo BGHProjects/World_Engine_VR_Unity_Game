@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Race_Mode.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
